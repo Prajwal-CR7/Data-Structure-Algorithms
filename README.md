@@ -19,7 +19,7 @@ It is based on a complete DSA course from GeeksforGeeks (GFG), which I practiced
 - Recursion & Backtracking
 - Greedy Algorithms
 - Bit Manipulation
-- Heap / Priority Queue
+- Hashing
 
 
 
