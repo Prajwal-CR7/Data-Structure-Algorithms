@@ -1,0 +1,13 @@
+# Ignore executable files
+*.exe
+*.out
+*.o
+
+# Ignore build folders (optional but good)
+build/
+c++ beginning/assignment4/
+c++ beginning/assignments/
+
+
+# Ignore VS Code settings (optional)
+.vscode/
